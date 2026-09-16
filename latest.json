@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.16.2",
-  "url": "https://raw.githubusercontent.com/dslansky/scoreboard-firmware/main/releases/standalone-2026.09.16.2.bin",
-  "size": 1103664,
-  "sha256": "30661468f363b33658d56bab0e920b1f04cba93127560ea0adf82cec44c5d3b0",
-  "notes": "Test of the internet update path: same build, new version string."
+  "version": "2026.09.16.3",
+  "url": "https://raw.githubusercontent.com/dslansky/scoreboard-firmware/main/releases/standalone-2026.09.16.3.bin",
+  "size": 1104944,
+  "sha256": "7470c1d70cfa5f378db7881ebe3e0f84e9118c436a4dea6509d886e72946e00b",
+  "notes": "Buffer each ESPN download in PSRAM before parsing: fixes intermittent IncompleteInput on NFL and MLB. Retry a failed update check within the hour."
 }
