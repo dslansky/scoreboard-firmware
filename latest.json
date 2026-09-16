@@ -1,0 +1,7 @@
+{
+  "version": "2026.09.16.1",
+  "url": "https://raw.githubusercontent.com/dslansky/scoreboard-firmware/main/releases/standalone-2026.09.16.1.bin",
+  "size": 1103664,
+  "sha256": "ac7d9ce62823bf8a8be73ac45381188e4c992b34db836c8278520177018a0372",
+  "notes": "Four leagues from ESPN, on-device logos, Wi-Fi setup page, self-updating."
+}
