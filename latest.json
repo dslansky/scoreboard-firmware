@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.16.4",
-  "url": "https://raw.githubusercontent.com/dslansky/scoreboard-firmware/main/releases/standalone-2026.09.16.4.bin",
-  "size": 1112608,
-  "sha256": "637f8acc82e5d11a101e2bab1c1b31d847ba73c938a57c2ce8c6bd35093539a3",
-  "notes": "Local weather: Open-Meteo by zip code, icons from the board's filesystem, one slot in the rotation after the games."
+  "version": "2026.09.23.1",
+  "url": "https://raw.githubusercontent.com/dslansky/scoreboard-firmware/main/releases/standalone-2026.09.23.1.bin",
+  "size": 1115456,
+  "sha256": "398f3cd7ecf47265529a60f34a9a1d2f32aaa8baf2ce3e0ab93dd1f8c6dbd14f",
+  "notes": "Live games lead the rotation instead of replacing it; setup page works when the screen moves to a new network."
 }
